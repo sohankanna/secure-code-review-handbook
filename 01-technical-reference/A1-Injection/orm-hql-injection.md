@@ -140,5 +140,3 @@ sqlAdapter.SelectCommand.Parameters["@usrId"].Value = UID.Text;
 *   **Named Parameters** (`:name`) are the required fix.
 
 ---
-*End of ORM & HQL Injection Notes*
-*Reference: OWASP Code Review Guide 2.0 (Pages 50-53)*
